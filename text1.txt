@@ -1,2 +1,11 @@
 New text here
 Hello
+pwd
+mkdir
+touch
+cat
+cd
+mv
+rm
+start
+ls -la
