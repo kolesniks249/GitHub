@@ -1,0 +1,4 @@
+Info
+git clone
+git status
+git add
