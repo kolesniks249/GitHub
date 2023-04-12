@@ -1,4 +1,6 @@
 Info
 git clone
 git status
+git push
 git add
+git branch
