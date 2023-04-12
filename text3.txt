@@ -1,6 +1,6 @@
 Info
 git clone
 git status
-git push
+git checkout
 git add
 git branch
