@@ -4,3 +4,4 @@ git status
 git checkout
 git add
 git branch
+git log
