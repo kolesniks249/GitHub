@@ -9,3 +9,5 @@ mv
 rm
 start
 ls -la
+diff
+patch
