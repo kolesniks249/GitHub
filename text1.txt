@@ -1,5 +1,3 @@
-
-This text was change
 Newest text here
 Hello
 pwd
